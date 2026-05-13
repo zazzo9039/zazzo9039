@@ -1,0 +1,39 @@
+<svg width="920" height="450" viewBox="0 0 920 450" fill="none" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+  <defs>
+    <style>
+      .term-header-user { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #8AE234; font-size: 15px; font-weight: 700; }
+      .term-header-path { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #729FCF; font-size: 15px; font-weight: 700; }
+      .term-header-cmd { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #F2F2F2; font-size: 15px; font-weight: 600; }
+      .term-key { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #8AB4F8; font-size: 16px; font-weight: 700; }
+      .term-section { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #8AB4F8; font-size: 16px; font-weight: 700; }
+      .term-dash { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #D7BA7D; font-size: 16px; font-weight: 700; }
+      .term-value { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #F0F0F0; font-size: 16px; font-weight: 500; }
+    </style>
+  </defs>
+
+  <rect x="10" y="10" width="900" height="430" rx="12" fill="#0C0C0C" stroke="#2F2F2F" stroke-width="2"/>
+  <rect x="10" y="10" width="900" height="38" rx="12" fill="#171717"/>
+  <line x1="10" y1="48" x2="910" y2="48" stroke="#2F2F2F"/>
+  <text x="28" y="34" class="term-header-user">zazzo9039@workspace</text>
+  <text x="209" y="34" class="term-header-path">:~$</text>
+  <text x="243" y="34" class="term-header-cmd"> cat about.yml</text>
+
+  <g>
+    <text x="28" y="78" class="term-section">simone:</text>
+    <text x="56" y="110"><tspan class="term-key">based_in:</tspan><tspan class="term-value">    Rome, Italy</tspan></text>
+    <text x="56" y="132"><tspan class="term-key">years_in:</tspan><tspan class="term-value">    10+</tspan></text>
+    <text x="56" y="154"><tspan class="term-key">works_on:</tspan><tspan class="term-value">    Full-Stack &#183; Distributed Systems &#183; AI Integration</tspan></text>
+
+    <text x="56" y="196" class="term-key">builds_for:</text>
+    <text x="84" y="218" class="term-value">Environments where uptime is non-negotiable</text>
+    <text x="84" y="240" class="term-value">and the wrong error message ends up on a press release.</text>
+
+    <text x="56" y="282" class="term-key">currently:</text>
+    <text x="84" y="304" class="term-value">Wiring AI into systems that pre-date the LLM hype cycle</text>
+    <text x="84" y="326" class="term-value">by a decade or more.</text>
+
+    <text x="56" y="368" class="term-key">approach:</text>
+    <text x="84" y="390" class="term-value">Pragmatic. Code-first. No silver bullets.</text>
+    <text x="84" y="412" class="term-value">The boring stuff has to actually work.</text>
+  </g>
+</svg>

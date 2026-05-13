@@ -1,0 +1,8 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Simone Zantomio profile header</title>
+  <desc id="desc">Profile banner for Simone Zantomio, Full-Stack Architect focused on platforms, AI, and industrial IoT</desc>
+  <rect width="1200" height="300" fill="#c6d8f5"/>
+  <text x="52" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="#0d2b6b">Hi, I'm</text>
+  <text x="52" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="900" fill="#0d2b6b">Simone Zantomio</text>
+  <text x="54" y="238" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#0d2b6b" opacity="0.9">Full-Stack Architect · Platforms, AI &amp; Industrial IoT</text>
+</svg>

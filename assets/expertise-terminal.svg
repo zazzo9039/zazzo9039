@@ -1,0 +1,55 @@
+<svg width="920" height="760" viewBox="0 0 920 760" fill="none" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+  <defs>
+    <style>
+      .term-header-user { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #8AE234; font-size: 15px; font-weight: 700; }
+      .term-header-path { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #729FCF; font-size: 15px; font-weight: 700; }
+      .term-header-cmd { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #F2F2F2; font-size: 15px; font-weight: 600; }
+      .term-section { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #8AB4F8; font-size: 16px; font-weight: 700; }
+      .term-dash { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #D7BA7D; font-size: 16px; font-weight: 700; }
+      .term-value { font-family: "Cascadia Mono", Consolas, Menlo, Monaco, "Courier New", monospace; fill: #F0F0F0; font-size: 16px; font-weight: 500; }
+    </style>
+  </defs>
+
+  <rect x="10" y="10" width="900" height="740" rx="12" fill="#0C0C0C" stroke="#2F2F2F" stroke-width="2"/>
+  <rect x="10" y="10" width="900" height="38" rx="12" fill="#171717"/>
+  <line x1="10" y1="48" x2="910" y2="48" stroke="#2F2F2F"/>
+  <text x="28" y="34" class="term-header-user">zazzo9039@workspace</text>
+  <text x="209" y="34" class="term-header-path">:~$</text>
+  <text x="243" y="34" class="term-header-cmd"> cat expertise.yml</text>
+
+  <g>
+    <text x="28" y="78" class="term-section">focus:</text>
+    <text x="28" y="98"><tspan class="term-dash">  - </tspan><tspan class="term-value">Microfrontend at enterprise scale</tspan></text>
+    <text x="28" y="118"><tspan class="term-dash">  - </tspan><tspan class="term-value">AI agents in compliance-heavy stacks</tspan></text>
+    <text x="28" y="138"><tspan class="term-dash">  - </tspan><tspan class="term-value">Event-driven backends</tspan></text>
+    <text x="28" y="158"><tspan class="term-dash">  - </tspan><tspan class="term-value">Industrial &amp; legacy system integration</tspan></text>
+
+    <text x="28" y="198" class="term-section">ai_llm:</text>
+    <text x="28" y="218"><tspan class="term-dash">  - </tspan><tspan class="term-value">LLM integration &amp; multi-agent orchestration</tspan></text>
+    <text x="28" y="238"><tspan class="term-dash">  - </tspan><tspan class="term-value">Retrieval-augmented generation</tspan></text>
+    <text x="28" y="258"><tspan class="term-dash">  - </tspan><tspan class="term-value">Compliance-aware pipelines (PII, GDPR)</tspan></text>
+    <text x="28" y="278"><tspan class="term-dash">  - </tspan><tspan class="term-value">On-prem &amp; hybrid inference</tspan></text>
+
+    <text x="28" y="318" class="term-section">frontend:</text>
+    <text x="28" y="338"><tspan class="term-dash">  - </tspan><tspan class="term-value">Microfrontend architectures at scale</tspan></text>
+    <text x="28" y="358"><tspan class="term-dash">  - </tspan><tspan class="term-value">Real-time streaming UIs</tspan></text>
+    <text x="28" y="378"><tspan class="term-dash">  - </tspan><tspan class="term-value">Component systems across distributed teams</tspan></text>
+
+    <text x="28" y="418" class="term-section">backend:</text>
+    <text x="28" y="438"><tspan class="term-dash">  - </tspan><tspan class="term-value">Event-driven &amp; domain-driven design</tspan></text>
+    <text x="28" y="458"><tspan class="term-dash">  - </tspan><tspan class="term-value">API design &amp; integration platforms</tspan></text>
+    <text x="28" y="478"><tspan class="term-dash">  - </tspan><tspan class="term-value">Identity, authorization &amp; audit at enterprise scale</tspan></text>
+
+    <text x="28" y="518" class="term-section">iot:</text>
+    <text x="28" y="538"><tspan class="term-dash">  - </tspan><tspan class="term-value">Multi-protocol industrial integration</tspan></text>
+    <text x="28" y="558"><tspan class="term-dash">  - </tspan><tspan class="term-value">Edge devices &amp; embedded systems</tspan></text>
+    <text x="28" y="578"><tspan class="term-dash">  - </tspan><tspan class="term-value">Real-time telemetry pipelines</tspan></text>
+
+    <text x="28" y="618" class="term-section">side_projects:</text>
+    <text x="28" y="638"><tspan class="term-dash">  - </tspan><tspan class="term-value">AI agent platform (in active development)</tspan></text>
+    <text x="28" y="658"><tspan class="term-dash">  - </tspan><tspan class="term-value">Local LLM inference on consumer hardware</tspan></text>
+    <text x="28" y="678"><tspan class="term-dash">  - </tspan><tspan class="term-value">Hardware hacking, SDR, RF experiments</tspan></text>
+
+    <text x="28" y="718"><tspan class="term-section">patents:</tspan><tspan class="term-value">    1</tspan></text>
+  </g>
+</svg>
